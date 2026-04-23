@@ -23,3 +23,4 @@
 |--------|-----------|------|
 | [Анализ маркетплейса](https://github.com/tsagolly1234/marketplace-analysis) | Когортный анализ, retention, ICE-фреймворк | Python |
 | [Анализ мобильной игры](https://github.com/tsagolly1234/mobile-game-analysis) | A/B тест, retention-функция, метрики событий | Python · SciPy |
+| [SQL задачи](https://github.com/tsagolly1234/sql-practice) | Базовые запросы/агрегация/группировка/join/оконные функции/продуктовые метрики | PostgreSQL |
