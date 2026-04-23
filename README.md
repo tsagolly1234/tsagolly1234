@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Ольга 👋
 
-<!--
-**tsagolly1234/tsagolly1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Перехожу в дата-аналитику из HR — осознанно и с удовольствием.
+5+ лет в найме научили меня задавать правильные вопросы бизнесу.
+Теперь учусь отвечать на них с помощью данных.
 
-Here are some ideas to get you started:
+## 🔍 Чем занимаюсь сейчас
+- Прошла курс **Аналитик данных** на karpov.courses
+- Сейчас прохожу **Симулятор работы аналитика** на karpov.courses
+- Делаю учебные проекты: маркетплейсы, мобильные игры, A/B тесты
+- Ищу первую позицию в аналитике — джуниор или стажировка
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек
+`Python` `SQL` `PostgreSQL` `ClickHouse` `Pandas` `NumPy`  
+`Matplotlib` `Seaborn` `DataLens` `Redash` `Git` `Jupyter`
+
+## 📫 Связаться
+- Telegram: @tsagolova
+- Email: tsagolova.oi@gmail.com
+
+## 📂 Проекты
