@@ -20,6 +20,9 @@
 ## 📂 Проекты
 | Проект | Что делала | Стек |
 |--------|-----------|------|
-| [Анализ маркетплейса](https://github.com/tsagolly1234/marketplace-analysis) | Когортный анализ, retention, ICE-фреймворк | Python |
-| [Анализ мобильной игры](https://github.com/tsagolly1234/mobile-game-analysis) | A/B тест, retention-функция, метрики событий | Python · SciPy |
-| [SQL задачи](https://github.com/tsagolly1234/sql-practice) | Базовые запросы/агрегация/группировка/join/оконные функции/продуктовые метрики | PostgreSQL |
+| [Анализ маркетплейса](https://github.com/tsagolly1234/marketplace-analysis) | Когортный анализ, retention, ICE-фреймворк | Python|
+| [Анализ мобильной игры](https://github.com/tsagolly1234/mobile-game-analysis) | A/B тест, retention-функция, метрики событий | Python · SciPy|
+| [SQL задачи](https://github.com/tsagolly1234/sql-practice) | Базовые запросы/агрегация/группировка/join/оконные функции/продуктовые метрики | PostgreSQL|
+| [Eжедневный автоматизированный отчет в Tg](https://github.com/tsagolly1234/app-report-bot) | Python, Clickhouse, Airflow, Telegram Bot API|
+| [Анализ пользовательской активности](https://github.com/tsagolly1234/user-retention-dashboard/tree/main) | Оценка качества рекламного трафика + Расследование падения аудитории | DataLens SQL ClickHouse|
+
